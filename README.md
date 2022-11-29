@@ -7,7 +7,7 @@ API service for cinema management written on DRF
 #### Install PostgresSQL and create db
 
 ```bash
-git clone https://github.com/Y-Havryliv/cinema-API.qit
+git clone https://github.com/graandda/Cinema-API.git
 cd cinema API
 ```
 ```bash
